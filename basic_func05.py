@@ -1,5 +1,5 @@
 # Create a function called main.
 def main():
-    return 'typing'
+    return 3.3
 print(main())
 # Return the value float type.
